@@ -1,0 +1,15 @@
+# This directory contains generated code only
+# The schemas directory should never be included
+schemas/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
