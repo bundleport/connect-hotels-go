@@ -935,7 +935,7 @@ const file_domain_response_common_response_hotels_proto_rawDesc = "" +
 	"\x1eWARN_MAPPING_RATE_PLAN_MISSING\x10\x03\x1a7\x8a\xb5\x183Mapping for the rate plan code provided is missing.\x12X\n" +
 	"\x1fWARN_MAPPING_BOARD_CODE_MISSING\x10\x04\x1a3\x8a\xb5\x18/Mapping for the board code provided is missing.:E\n" +
 	"\vdescription\x12!.google.protobuf.EnumValueOptions\x18ц\x03 \x01(\tR\vdescriptionB\x82\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x14CommonResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x14CommonResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_common_response_hotels_proto_rawDescOnce sync.Once

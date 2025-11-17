@@ -251,7 +251,7 @@ const file_domain_response_metadata_response_hotels_proto_rawDesc = "" +
 	"\fMetadataData\x12\x16\n" +
 	"\x06access\x18\x01 \x01(\tR\x06access\x12B\n" +
 	"\x04data\x18\x02 \x03(\v2..com_bundleport_connect_proto_hotels.TypeValueR\x04dataB\x84\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x16MetadataResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x16MetadataResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_metadata_response_hotels_proto_rawDescOnce sync.Once

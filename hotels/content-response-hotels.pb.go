@@ -318,7 +318,7 @@ const file_domain_response_content_response_hotels_proto_rawDesc = "" +
 	"\x06source\x18\x02 \x01(\tR\x06source\x12\x12\n" +
 	"\x04href\x18\x03 \x01(\tR\x04href\x12\x1c\n" +
 	"\tupdatedAt\x18\x04 \x01(\tR\tupdatedAtB\x83\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x15ContentResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x15ContentResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_content_response_hotels_proto_rawDescOnce sync.Once

@@ -39,7 +39,7 @@ const file_services_services_hotels_proto_rawDesc = "" +
 	"\x0fGetDestinations\x12;.com_bundleport_connect_proto_hotels.GetDestinationsRequest\x1a<.com_bundleport_connect_proto_hotels.GetDestinationsResponse\"\x00\x12\x97\x01\n" +
 	"\x12SearchDestinations\x12>.com_bundleport_connect_proto_hotels.SearchDestinationsRequest\x1a?.com_bundleport_connect_proto_hotels.SearchDestinationsResponse\"\x00\x12\x82\x01\n" +
 	"\vGetMetadata\x127.com_bundleport_connect_proto_hotels.GetMetadataRequest\x1a8.com_bundleport_connect_proto_hotels.GetMetadataResponse\"\x00B\x82\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x14HotelsServicesProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x14HotelsServicesProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var file_services_services_hotels_proto_goTypes = []any{
 	(*SearchRequest)(nil),              // 0: com_bundleport_connect_proto_hotels.SearchRequest

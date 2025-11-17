@@ -249,7 +249,7 @@ const file_domain_response_cancel_response_hotels_proto_rawDesc = "" +
 	"\x15CANCEL_STATUS_TYPE_OK\x10\x00\x12\x19\n" +
 	"\x15CANCEL_STATUS_TYPE_KO\x10\x01\x12\x1e\n" +
 	"\x1aCANCEL_STATUS_TYPE_UNKNOWN\x10\x02B\x82\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x14CancelResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x14CancelResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_cancel_response_hotels_proto_rawDescOnce sync.Once

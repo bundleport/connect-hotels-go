@@ -142,7 +142,7 @@ const file_domain_request_rooms_request_hotels_proto_rawDesc = "" +
 	"\x11RoomQueryCriteria\x12\x1c\n" +
 	"\troomCodes\x18\x01 \x03(\tR\troomCodes\x12\x1a\n" +
 	"\blanguage\x18\x02 \x01(\tR\blanguageB\x80\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x12RoomsRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x12RoomsRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_rooms_request_hotels_proto_rawDescOnce sync.Once

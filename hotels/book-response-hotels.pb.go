@@ -362,7 +362,7 @@ const file_domain_response_book_response_hotels_proto_rawDesc = "" +
 	"\x1aBOOK_STATUS_TYPE_CANCELLED\x10\x03\x12\x1c\n" +
 	"\x18BOOK_STATUS_TYPE_UNKNOWN\x10\x04\x12#\n" +
 	"\x1fBOOK_STATUS_TYPE_PENDING_COMMIT\x10\x05B\x80\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x12BookResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x12BookResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_book_response_hotels_proto_rawDescOnce sync.Once

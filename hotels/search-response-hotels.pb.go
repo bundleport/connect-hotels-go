@@ -1126,7 +1126,7 @@ const file_domain_response_search_response_hotels_proto_rawDesc = "" +
 	"#SEARCH_TRACING_SPAN_STATUS_WARNINGS\x10\x03\x12%\n" +
 	"!SEARCH_TRACING_SPAN_STATUS_ERRORS\x10\x04\x12%\n" +
 	"!SEARCH_TRACING_SPAN_STATUS_CACHED\x10\x0fB\x82\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x14SearchResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x14SearchResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_search_response_hotels_proto_rawDescOnce sync.Once

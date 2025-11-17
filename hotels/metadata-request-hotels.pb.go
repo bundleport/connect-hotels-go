@@ -122,7 +122,7 @@ const file_domain_request_metadata_request_hotels_proto_rawDesc = "" +
 	"\bcriteria\x18\x01 \x01(\v2:.com_bundleport_connect_proto_hotels.MetadataQueryCriteriaR\bcriteria\x12N\n" +
 	"\bsettings\x18\x02 \x01(\v22.com_bundleport_connect_proto_hotels.SettingsInputR\bsettings\"\x17\n" +
 	"\x15MetadataQueryCriteriaB\x83\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x15MetadataRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x15MetadataRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_metadata_request_hotels_proto_rawDescOnce sync.Once

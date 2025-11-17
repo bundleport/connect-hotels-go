@@ -465,7 +465,7 @@ const file_domain_response_rooms_response_hotels_proto_rawDesc = "" +
 	"\bBedsData\x12\x12\n" +
 	"\x04type\x18\x01 \x01(\tR\x04type\x12\x14\n" +
 	"\x05count\x18\x02 \x01(\x05R\x05countB\x81\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x13RoomsResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x13RoomsResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_rooms_response_hotels_proto_rawDescOnce sync.Once

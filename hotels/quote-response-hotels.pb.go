@@ -224,7 +224,7 @@ const file_domain_response_quote_response_hotels_proto_rawDesc = "" +
 	"surcharges\x12U\n" +
 	"\fcancelPolicy\x18\x06 \x01(\v21.com_bundleport_connect_proto_hotels.CancelPolicyR\fcancelPolicy\x12H\n" +
 	"\aremarks\x18\a \x03(\v2..com_bundleport_connect_proto_hotels.TypeValueR\aremarksB\x81\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x13QuoteResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x13QuoteResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_quote_response_hotels_proto_rawDescOnce sync.Once

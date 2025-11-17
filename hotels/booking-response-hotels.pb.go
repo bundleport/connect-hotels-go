@@ -554,7 +554,7 @@ const file_domain_response_booking_response_hotels_proto_rawDesc = "" +
 	"ChargeType\x12\v\n" +
 	"\aINCLUDE\x10\x00\x12\v\n" +
 	"\aEXCLUDE\x10\x01B\x83\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x15BookingResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x15BookingResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_booking_response_hotels_proto_rawDescOnce sync.Once

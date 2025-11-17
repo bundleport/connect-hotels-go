@@ -435,7 +435,7 @@ const file_domain_request_search_request_hotels_proto_rawDesc = "" +
 	"\x11BusinessRulesType\x12\x12\n" +
 	"\x0eCHEAPER_AMOUNT\x10\x00\x12\r\n" +
 	"\tROOM_TYPE\x10\x01B\x81\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x13SearchRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x13SearchRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_search_request_hotels_proto_rawDescOnce sync.Once

@@ -680,7 +680,7 @@ const file_domain_request_common_request_hotels_proto_rawDesc = "" +
 	"\x04MISS\x10\x02\x12\x06\n" +
 	"\x02MS\x10\x03\x12\x11\n" +
 	"\rNOT_SPECIFIED\x10\x04B\x81\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x13CommonRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x13CommonRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_common_request_hotels_proto_rawDescOnce sync.Once

@@ -8,7 +8,7 @@ import (
 	connect "connectrpc.com/connect"
 	context "context"
 	errors "errors"
-	hotels "github.com/bundleport/connect-go-schema/hotels"
+	hotels "github.com/bundleport/connect-hotels-go/hotels"
 	http "net/http"
 	strings "strings"
 )

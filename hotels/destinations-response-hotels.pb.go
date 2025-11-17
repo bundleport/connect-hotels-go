@@ -290,7 +290,7 @@ const file_domain_response_destinations_response_hotels_proto_rawDesc = "" +
 	"\x0fdestinationCode\x18\x02 \x01(\tR\x0fdestinationCode\x12\x12\n" +
 	"\x04type\x18\x03 \x01(\tR\x04type\x12\x12\n" +
 	"\x04name\x18\x04 \x01(\tR\x04nameB\x88\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x1aDestinationsResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x1aDestinationsResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_destinations_response_hotels_proto_rawDescOnce sync.Once

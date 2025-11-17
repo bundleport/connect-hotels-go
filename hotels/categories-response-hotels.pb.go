@@ -194,7 +194,7 @@ const file_domain_response_categories_response_hotels_proto_rawDesc = "" +
 	"\fcategoryCode\x18\x02 \x01(\tR\fcategoryCode\x12 \n" +
 	"\vdescription\x18\x03 \x01(\tR\vdescription\x12\x1a\n" +
 	"\blanguage\x18\x04 \x01(\tR\blanguageB\x86\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x18CategoriesResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x18CategoriesResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_categories_response_hotels_proto_rawDescOnce sync.Once

@@ -420,7 +420,7 @@ const file_domain_request_booking_list_request_hotels_proto_rawDesc = "" +
 	"\x1bBookingListCriteriaDateType\x12+\n" +
 	"'BOOKING_LIST_CRITERIA_DATE_TYPE_BOOKING\x10\x00\x12+\n" +
 	"'BOOKING_LIST_CRITERIA_DATE_TYPE_ARRIVAL\x10\x01B\x86\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x18BookingListRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x18BookingListRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_booking_list_request_hotels_proto_rawDescOnce sync.Once

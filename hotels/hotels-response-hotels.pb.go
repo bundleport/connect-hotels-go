@@ -927,7 +927,7 @@ const file_domain_response_hotels_response_hotels_proto_rawDesc = "" +
 	"\vphoneNumber\x18\x02 \x01(\tR\vphoneNumber\x12\x10\n" +
 	"\x03fax\x18\x03 \x01(\tR\x03fax\x12\x10\n" +
 	"\x03web\x18\x04 \x01(\tR\x03webB\x82\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x14HotelsResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x14HotelsResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_hotels_response_hotels_proto_rawDescOnce sync.Once

@@ -248,7 +248,7 @@ const file_domain_request_destinations_request_hotels_proto_rawDesc = "" +
 	"\blanguage\x18\x02 \x01(\tR\blanguage\"1\n" +
 	"\x19DestinationSearchCriteria\x12\x14\n" +
 	"\x05query\x18\x01 \x01(\tR\x05queryB\x87\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x19DestinationsRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x19DestinationsRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_destinations_request_hotels_proto_rawDescOnce sync.Once

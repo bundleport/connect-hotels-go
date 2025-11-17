@@ -155,7 +155,7 @@ const file_domain_request_quote_request_hotels_proto_rawDesc = "" +
 	"\x13AdditionalDataEntry\x12\x10\n" +
 	"\x03key\x18\x01 \x01(\tR\x03key\x12\x14\n" +
 	"\x05value\x18\x02 \x01(\tR\x05value:\x028\x01B\x80\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x12QuoteRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x12QuoteRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_quote_request_hotels_proto_rawDescOnce sync.Once

@@ -788,7 +788,7 @@ const file_domain_response_payment_response_hotels_proto_rawDesc = "" +
 	"\x1aThreeDSSignatureStatusType\x12\x17\n" +
 	"\x13SIGNATURE_VALIDATED\x10\x00\x12\x1b\n" +
 	"\x17SIGNATURE_NOT_VALIDATED\x10\x01B\x83\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x15PaymentResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x15PaymentResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_payment_response_hotels_proto_rawDescOnce sync.Once

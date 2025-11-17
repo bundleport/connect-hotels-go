@@ -1,4 +1,4 @@
-module github.com/bundleport/connect-go-schema
+module github.com/bundleport/connect-hotels-go
 
 go 1.25.0
 

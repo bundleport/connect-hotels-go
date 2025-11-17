@@ -353,7 +353,7 @@ const file_domain_request_book_request_hotels_proto_rawDesc = "" +
 	"\asurname\x18\x02 \x01(\tR\asurname\x12\x10\n" +
 	"\x03age\x18\x03 \x01(\x05R\x03age\x12L\n" +
 	"\x05title\x18\x04 \x01(\x0e26.com_bundleport_connect_proto_hotels.PersonalTitleTypeR\x05titleB\x7f\n" +
-	"\x1ccom.bundleport.connect.protoB\x11BookRequestProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x11BookRequestProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_request_book_request_hotels_proto_rawDescOnce sync.Once

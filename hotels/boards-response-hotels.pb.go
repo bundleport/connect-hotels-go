@@ -319,7 +319,7 @@ const file_domain_response_boards_response_hotels_proto_rawDesc = "" +
 	"\x04code\x18\x01 \x01(\tR\x04code\x12\x1c\n" +
 	"\tboardCode\x18\x02 \x01(\tR\tboardCode\x12?\n" +
 	"\x05texts\x18\x03 \x03(\v2).com_bundleport_connect_proto_hotels.TextR\x05textsB\x82\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x14BoardsResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x14BoardsResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_boards_response_hotels_proto_rawDescOnce sync.Once

@@ -114,7 +114,7 @@ const file_domain_response_booking_list_response_hotels_proto_rawDesc = "" +
 	"\bwarnings\x18\x03 \x03(\v2,.com_bundleport_connect_proto_hotels.WarningR\bwarnings\x12L\n" +
 	"\tdebugData\x18\x04 \x03(\v2..com_bundleport_connect_proto_hotels.TypeValueR\tdebugData\x12N\n" +
 	"\bbookings\x18\x05 \x03(\v22.com_bundleport_connect_proto_hotels.BookingDetailR\bbookingsB\x87\x01\n" +
-	"\x1ccom.bundleport.connect.protoB\x19BookingListResponseProtosP\x01Z.github.com/bundleport/connect-go-schema/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
+	"\x1ccom.bundleport.connect.protoB\x19BookingListResponseProtosP\x01Z.github.com/bundleport/connect-hotels-go/hotels\xaa\x02\x19Bundleport.Connect.Hotelsb\x06proto3"
 
 var (
 	file_domain_response_booking_list_response_hotels_proto_rawDescOnce sync.Once
